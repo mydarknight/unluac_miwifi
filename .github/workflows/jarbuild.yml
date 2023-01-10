@@ -1,6 +1,7 @@
 name: unluac Nightly Build
 on: push
 
+
 jobs:
   jarbuild:
     name: Build Jar
